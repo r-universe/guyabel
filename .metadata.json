@@ -1,0 +1,18 @@
+[
+  {
+    "package": "fanplot",
+    "oncran": true
+  },
+  {
+    "package": "migest",
+    "oncran": true
+  },
+  {
+    "package": "tidycat",
+    "oncran": true
+  },
+  {
+    "package": "wcde",
+    "oncran": true
+  }
+]
