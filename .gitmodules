@@ -8,11 +8,6 @@
 	url = https://github.com/guyabel/fanplot
 	shallow = true
 	registered = true
-[submodule "migest"]
-	path = migest
-	url = https://github.com/guyabel/migest
-	shallow = true
-	registered = true
 [submodule "tidycat"]
 	path = tidycat
 	url = https://github.com/guyabel/tidycat

@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "migest",
-    "oncran": true
-  },
-  {
     "package": "tidycat",
     "oncran": true
   },
