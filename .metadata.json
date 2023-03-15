@@ -1,9 +1,5 @@
 [
   {
-    "package": "fanplot",
-    "oncran": true
-  },
-  {
     "package": "migest",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "wcde",
+    "oncran": true
+  },
+  {
+    "package": "fanplot",
     "oncran": true
   }
 ]
