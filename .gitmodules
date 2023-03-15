@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fanplot"]
+	path = fanplot
+	url = https://github.com/guyabel/fanplot
+	shallow = true
+	registered = true
 [submodule "migest"]
 	path = migest
 	url = https://github.com/guyabel/migest
@@ -16,10 +21,5 @@
 [submodule "wcde"]
 	path = wcde
 	url = https://github.com/guyabel/wcde
-	shallow = true
-	registered = true
-[submodule "fanplot"]
-	path = fanplot
-	url = https://github.com/guyabel/fanplot
 	shallow = true
 	registered = true
